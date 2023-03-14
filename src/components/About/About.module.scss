@@ -4,7 +4,7 @@
 .about {
     padding: $base-size;
 }
-  
+
 .title {
     padding: ($base-size * 3) 0;
     text-align: center;
@@ -13,8 +13,9 @@
 }
 
 .description {
-    padding: ($base-size * 2) 0;
+    padding: ($base-size * 1.5) 0;
     font-weight: normal;
+    font-size: 25px;
 }
 
 .title + .description {

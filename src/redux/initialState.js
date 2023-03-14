@@ -21,20 +21,20 @@ const initialState = {
     {
       id: '4',
       listId: '2',
-      title: 'Plants',
-      icon: 'leaf',
+      title: 'Book',
+      icon: 'book',
     },
     {
       id: '5',
       listId: '2',
-      title: 'Plants',
-      icon: 'leaf',
+      title: 'Game',
+      icon: 'gamepad',
     },
     {
       id: '6',
       listId: '2',
-      title: 'Plants',
-      icon: 'leaf',
+      title: 'Movie',
+      icon: 'film',
     }
   ],
 
@@ -57,8 +57,8 @@ const initialState = {
     },
     {
       id: '2',
-      title: 'List of Plants',
-      description: 'Test List where you can find 3 columns of plants'
+      title: 'Things to do later',
+      description: 'Another list which I want to check'
     },
   ]
 
